@@ -28,6 +28,7 @@ safe-outputs:
       - "*.md"
       - "*.html"
       - "*.css"
+      - "*.txt"
       - "vite.config.js"
       - "eslint.config.js"
   add-comment:
