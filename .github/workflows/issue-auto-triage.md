@@ -22,14 +22,7 @@ safe-outputs:
     draft: true
     if-no-changes: error
     allowed-files:
-      - "src/**"
-      - "public/**"
-      - "*.json"
-      - "*.md"
-      - "*.html"
-      - "*.css"
-      - "vite.config.js"
-      - "eslint.config.js"
+      - "**"
   add-comment:
     max: 1
   noop:
